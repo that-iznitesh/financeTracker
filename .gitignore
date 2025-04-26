@@ -1,0 +1,14 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Ignore frontend node_modules
+frontend/node_modules/
+
+# Ignore backend .env
+backend/.env
+# Mac or system files
+.DS_Store
+
+# Logs
+*.log
+
+# OS junk files
+Thumbs.db

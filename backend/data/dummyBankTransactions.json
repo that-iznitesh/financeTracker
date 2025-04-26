@@ -1,0 +1,112 @@
+[
+    {
+      "title": "Zomato Order",
+      "amount": 500,
+      "category": "Food",
+      "date": "2024-03-01"
+    },
+    {
+      "title": "Uber Ride",
+      "amount": 250,
+      "category": "Transport",
+      "date": "2024-03-03"
+    },
+    {
+      "title": "Netflix Subscription",
+      "amount": 650,
+      "category": "Entertainment",
+      "date": "2024-03-05"
+    },
+    {
+      "title": "Electricity Bill",
+      "amount": 1200,
+      "category": "Bills",
+      "date": "2024-03-07"
+    },
+    {
+      "title": "Amazon Shopping",
+      "amount": 1500,
+      "category": "Shopping",
+      "date": "2024-03-08"
+    },
+        {
+          "title": "Salary Credit",
+          "amount": 30952.00,
+          "category": "Income",
+          "date": "2025-03-01"
+        },
+        {
+          "title": "Amazon Pay",
+          "amount": 500.00,
+          "category": "Shopping",
+          "date": "2025-03-03"
+        },
+        {
+          "title": "ATM Withdrawal - Thave",
+          "amount": 5000.00,
+          "category": "Cash",
+          "date": "2025-03-04"
+        },
+        {
+          "title": "Laxmi Ty Payment",
+          "amount": 2250.00,
+          "category": "Miscellaneous",
+          "date": "2025-03-04"
+        },
+        {
+          "title": "Cane Payment Advance",
+          "amount": 26025.00,
+          "category": "Income",
+          "date": "2025-03-04"
+        },
+        {
+          "title": "Slice Loan Repayment",
+          "amount": 109.52,
+          "category": "Loan Repayment",
+          "date": "2025-03-05"
+        },
+        {
+          "title": "Transfer to Nitesh - KKBK",
+          "amount": 22000.00,
+          "category": "Transfer",
+          "date": "2025-03-05"
+        },
+        {
+          "title": "Transfer to Nitesh - KKBK",
+          "amount": 26000.00,
+          "category": "Transfer",
+          "date": "2025-03-05"
+        },
+        {
+          "title": "Payment to Suresh K - YESB",
+          "amount": 10.00,
+          "category": "Miscellaneous",
+          "date": "2025-03-05"
+        },
+        {
+          "title": "Received from Nitesh - SBIN",
+          "amount": 5000.00,
+          "category": "Income",
+          "date": "2025-03-06"
+        },
+        {
+          "title": "ATM Withdrawal - Bettiah",
+          "amount": 5000.00,
+          "category": "Cash",
+          "date": "2025-03-06"
+        },
+        {
+          "title": "Payment to Nitesh - SBIN",
+          "amount": 500.00,
+          "category": "Transfer",
+          "date": "2025-03-06"
+        },
+        {
+          "title": "ATM Decline Charge",
+          "amount": 23.60,
+          "category": "Bank Charges",
+          "date": "2025-03-06"
+        }
+      
+  ]
+  
